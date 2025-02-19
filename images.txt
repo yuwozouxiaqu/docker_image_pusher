@@ -5,5 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql
-kubernetesui/dashboard:v2.0.0
-kubernetesui/metrics-scraper:v1.0.4
+#kubernetesui/dashboard:v2.0.0
+#kubernetesui/metrics-scraper:v1.0.4
+eipwork/kuboard-agent:v3
+questdb/questdb:6.0.5
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
